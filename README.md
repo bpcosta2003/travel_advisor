@@ -1,3 +1,40 @@
+# Travel Advisor APP
+
+Tutorial :  https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=18257s
+
+## Project 🖱️
+
+See the project https://travel-advisor-app-bybrunocosta.vercel.app/
+
+![image](https://user-images.githubusercontent.com/69023428/165194601-c843f078-087d-4609-8b7d-033a59cd0872.png)
+![image](https://user-images.githubusercontent.com/69023428/165194686-378f780d-3dd6-464a-b6dd-1a5d34e298da.png)
+
+## Technologies 💻
+<div style="display: inline_block"><br>
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+</br>
+
+### Packages 🔧
+- MaterialUI
+- Axios
+- Google Map React
+- React Dom
+
+## Functionalities ⚙️
+- Travel Advisor API consumption (https://rapidapi.com/hub) ✔️
+- Open Weather Map API  (https://rapidapi.com/hub) ✔️
+- Options filter ( Hotels, Attractions, Restaurants ) ✔️
+- Live Map Rendering Geolocation ✔️
+- Google Maps API ✔️
+- Some of the features of Google Maps API need to pay ( customized map, remove watermark, limit of requests and search places ) ✖️
+
+## Configuration
+- Clone the project ```git clone```
+- Open the terminal and type  ```npm i``` to download all the dependencies.
+- Execute  ```npm run dev```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

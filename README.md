@@ -4,7 +4,7 @@ Tutorial :  https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=18257s
 
 ## Project 🖱️
 
-See the project https://travel-advisor-app-bybrunocosta.vercel.app/
+See the project https://travel-advisor-app-bybrunocosta.vercel.app/ ( Allow your location to work )
 
 ![image](https://user-images.githubusercontent.com/69023428/165194601-c843f078-087d-4609-8b7d-033a59cd0872.png)
 ![image](https://user-images.githubusercontent.com/69023428/165194686-378f780d-3dd6-464a-b6dd-1a5d34e298da.png)
